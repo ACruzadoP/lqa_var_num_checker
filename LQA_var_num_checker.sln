@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LQA_var_num_checker", "LQA_var_num_checker.csproj", "{86354A73-C534-47D2-ACCE-9F6BE1E4B75F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86354A73-C534-47D2-ACCE-9F6BE1E4B75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86354A73-C534-47D2-ACCE-9F6BE1E4B75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86354A73-C534-47D2-ACCE-9F6BE1E4B75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86354A73-C534-47D2-ACCE-9F6BE1E4B75F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD772CB-B25A-4840-B2F4-FB28A61F45D6}
+	EndGlobalSection
+EndGlobal
