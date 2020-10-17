@@ -2,7 +2,7 @@ This app was developed by me while I was waiting for my employer-specific work p
 
 This app has two main functionalities:<br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;1. Spotting numeric-related issues that could have appeared during the Localization process. For example, if there's a String that says "Kill 50 spiders", maybe there was a translator who had entered an incorrect character, causing the string to appear with a wrong number - "Tuez 40 araignées". This could be a serious issue because only Functionality QA Testers are allowed to spend all day long killing monsters in order to make sure that the String is referring to the right amount of spiders. Needless to say that they are not going to play on French.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;1. Spotting numeric-related issues that could have appeared during the Localization process. For example, if there's a String that says "Kill 50 spiders", maybe there was a translator who had entered an incorrect character, causing the string to appear with a wrong number - "Tuez 40 araignées". This could be a serious issue because only Functionality QA Testers are allowed to spend all day long killing monsters in order to make sure that the String is referring to the right amount of spiders. Needless to say that they are not going to play on French.<br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp;2. Spotting missing variables as well as variables that were inconsistently translated.<br /><br />
 
 Things to keep in mind:<br />
